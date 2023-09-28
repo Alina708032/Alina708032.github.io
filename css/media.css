@@ -340,9 +340,7 @@ border: #938686 2px solid;
     transition: all 0.3s;
   }
 
-  .overlay--show {
-    visibility: visible;
-  }
+ 
 
   .burger {
     position: fixed;
